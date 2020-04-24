@@ -1,11 +1,7 @@
-## My Project
+## AWS IoTサンプル集
 
-TODO: Fill this README out!
+このリポジトリは、AWS IoTハンズオン、ワークショップで利用するサンプルプログラムを公開しています。
 
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
 
 ## License
 
