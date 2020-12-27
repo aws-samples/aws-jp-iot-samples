@@ -119,7 +119,7 @@ def find_certs_file():
                 file_list[0] = certs_dir + "/" + file
             elif "private" in file:
                 file_list[1] = certs_dir + "/" + file
-            elif "certificate" in file:
+            elif "cert" in file:
                 file_list[2] = certs_dir + "/" + file
 
     return file_list
